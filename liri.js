@@ -12,3 +12,15 @@ var axios = require("axios");
 
 var fs = require("fs");
 
+var inquirer = require('inquirer');
+
+
+inquirer.prompt([
+    {
+
+
+    }
+
+]).then(function(location) {
+    
+})
